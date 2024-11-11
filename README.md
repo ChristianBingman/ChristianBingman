@@ -3,40 +3,42 @@
 <img align='right' src="https://media3.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47aps0b4rc2q57p5k3fxnj280empmkra3pobbu1866&rid=giphy.gif&ct=s" width="230">
 
 [![Linkedin: christianbingman](https://img.shields.io/badge/-christianbingman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianbingman/)](https://www.linkedin.com/in/christianbingman/)
-[![GitHub: Thaiane](https://img.shields.io/github/followers/ChristianBingman?label=follow&style=social)](https://github.com/ChristianBingman)
+[![GitHub: ChristianBingman](https://img.shields.io/github/followers/ChristianBingman?label=follow&style=social)](https://github.com/ChristianBingman)
 
 *Site Reliability Engineer* at **Cisco Meraki**
 
-- 🌱 I am currently learning Machine Learning and Kernel Development
-- 🙋‍♂️ Pronouns: He/Him
-- 🎵 Fun Fact: I play 🎷
+- 💻 Passionate software engineer / site reliability engineer
+- ⛵ Weekend sailor
+- 🌍 World traveler
 
 ### 🔧 Technology and Languages
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
+![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-
-
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 
 ## 📈 Github Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristianBingman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/ChristianBingman/ChristianBingman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristianBingman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Christian's GitHub Stats" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/ChristianBingman/ChristianBingman">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianBingman&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 ## 😎 Cool Projects
-<a href="https://github.com/ChristianBingman/SDL-Game-Engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristianBingman&repo=SDL-Game-Engine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ChristianBingman/dotfiles-flake">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristianBingman&repo=dotfiles-flake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/acm-uic/sparkhacks-2023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acm-uic&repo=sparkhacks-2023&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/ChristianBingman/fly.io-rust">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristianBingman&repo=fly.io-rust&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
